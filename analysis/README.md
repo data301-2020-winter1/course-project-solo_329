@@ -1,2 +1,3 @@
-All jupyter files will be in this directory.
+**All** *jupyter files* will be in this directory.
 
+---
