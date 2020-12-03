@@ -1,6 +1,7 @@
 [![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/online_ide?assignment_repo_id=311487&assignment_repo_type=GroupAssignmentRepo)
 
-## **NOTE: For milestone 2, Task 4 (EDA) is in analysis/scripts directory, while Task 5 (analysis) is in the analysis directory.** ##
+## Final Project Walkthrough:## https://www.youtube.com/watch?v=v0zWuogz_R0&feature=youtu.be&ab_channel=OwenSpicker
+
 
 # Group 329 - {NHL game data}
 
